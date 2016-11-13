@@ -1,2 +1,2 @@
 # RoboticsWorkshop
-Pink Programming Robotics Wordshop @ Volvo
+Pink Programming Robotics Workshop @ Volvo
